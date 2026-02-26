@@ -5,12 +5,15 @@ I’m a data enthusiast focused on transforming raw data into actionable busines
 
 ---
 
-## 🛠 Tech Stack & Skills
-- **Databases:** SQL (BigQuery)
-- **Programming:** Python (Pandas, NumPy, Seaborn, Matplotlib)
-- **Visualization:** Tableau (Power BI, Google Looker Studio)
-- **Analytics:** A/B Testing, Exploratory Data Analysis (EDA)
-- **Tools:** Excel 
+### 🛠 Tech Stack & Skills
+
+![SQL](https://img.shields.io)
+![Python](https://img.shields.io)
+![Pandas](https://img.shields.io)
+![Tableau](https://img.shields.io)
+![Excel](https://img.shields.io)
+![Looker](https://img.shields.io)
+
 
 ---
 
