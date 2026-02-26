@@ -15,7 +15,7 @@ I’m a data enthusiast focused on transforming raw data into actionable busines
 ---
 
 ## 🚀 Featured Projects
-
+- **🪑 SalesFlow: Furniture Retail Analysis** | Python (Pandas, Seaborn), Tableau | **Full Pipeline:** Data cleaning & EDA in [Colab](https://colab.research.google.com/drive/1t85A2VLrYBM6dwJPoIVljjk8ty9OY4Zh#scrollTo=jvUEvctzPMdZ) → Interactive Dashboard in [Tableau](https://public.tableau.com/app/profile/kyrylo.rymar/viz/SalesFlow_17714228590280/SalesFlowDashboard?publish=yes). [View Repo]([./ВАША_ПАПКА_АБО_ЛІНК](https://github.com/rymarkyrylo/Furniture_Sale_-Analysis/blob/main/README.md)) 
 ---
 
 ## 📫 Connect with me
