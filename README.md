@@ -7,7 +7,8 @@ I’m a data enthusiast focused on transforming raw data into actionable busines
 
 ### 🛠 Tech Stack & Skills
 
-![SQL](https://img.shields.io) ![Python](https://img.shields.io) ![Pandas](https://img.shields.io) ![Tableau](https://img.shields.io) ![Excel](https://img.shields.io) ![Looker](https://img.shields.io)
+<img src="https://img.shields.io" /> <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> <img src="https://img.shields.io" /> <img src="https://img.shields.io" />
+
 
 
 ---
