@@ -30,7 +30,3 @@ I’m a data enthusiast focused on transforming raw data into actionable busines
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="Kyrylo's GitHub Stats" />
-</p>
-
