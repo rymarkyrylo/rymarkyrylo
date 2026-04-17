@@ -8,7 +8,7 @@ I’m a data enthusiast focused on transforming raw data into actionable busines
 ### 🛠 Tech Stack & Skills
 
 
-📄 [SQL](https://github.com/rymarkyrylo/Email_Marketing_Analysis) 🐍 [Python](https://colab.research.google.com/drive/1t85A2VLrYBM6dwJPoIVljjk8ty9OY4Zh#scrollTo=jvUEvctzPMdZ)  📊 [Tableau](https://public.tableau.com/app/profile/kyrylo.rymar/viz/SalesFlow_17714228590280/SalesFlowDashboard?publish=yes) 📈 [Power BI](https://github.com/rymarkyrylo/HR-Analytics-Dashboard-Power-BI-) 📗 [Excel](посилання) 🔍 [Looker](посилання)
+📄 [SQL](https://github.com/rymarkyrylo/Email_Marketing_Analysis) 🐍 [Python](https://colab.research.google.com/drive/1t85A2VLrYBM6dwJPoIVljjk8ty9OY4Zh#scrollTo=jvUEvctzPMdZ)  📊 [Tableau](https://public.tableau.com/app/profile/kyrylo.rymar/viz/SalesFlow_17714228590280/SalesFlowDashboard?publish=yes) 📈 [Power BI](https://github.com/rymarkyrylo/HR-Analytics-Dashboard-Power-BI-) 📗 [Excel](https://github.com/rymarkyrylo/rymarkyrylo/blob/main/README.md) 🔍 [Looker](https://github.com/rymarkyrylo/rymarkyrylo/blob/main/README.md)
 
 
 
