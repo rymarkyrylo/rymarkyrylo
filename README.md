@@ -24,7 +24,7 @@ I’m a data enthusiast focused on transforming raw data into actionable busines
 ---
 
 ## 📫 Connect with me
-- **LinkedIn:** [linkedin.kyrylo_rymar]( www.linkedin.com/in/kyrylo-rymar-20687936a)
+- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com-20687936a)
 - **Email:** [rymarkyrylo1993@gmail.com](mailto:rymarkyrylo1993@gmail.com)
 - **Telegram:** [@rymarkyrylo](https://t.me)
 
