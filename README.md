@@ -8,7 +8,6 @@ I’m a data enthusiast focused on transforming raw data into actionable busines
 ### 🛠 Tech Stack & Skills
 
 
-📄 [SQL](https://github.com) 🐍 [Python](https://github.com) 🐼 [Pandas](https://github.com) 📊 [Tableau](https://github.com)  📊 [Power BI](https://github.com) [Excel](https://github.com) 🔍 [Looker](https://github.com)
 📄 [SQL](посилання) 🐍 [Python](посилання) 🐼 [Pandas](посилання) 📊 [Tableau](посилання) 📈 [Power BI](посилання) 📗 [Excel](посилання) 🔍 [Looker](посилання)
 
 
