@@ -1,5 +1,5 @@
 # Hi, I'm Kyrylo Rymar! 👋
-### Data Analyst | SQL | Python | Tableau | A/B Testing
+### Data Analyst | SQL | Python | Tableau | Power BI | A/B Testing
 
 I’m a data enthusiast focused on transforming raw data into actionable business insights. My expertise lies in building end-to-end analytics pipelines—from SQL data extraction to interactive visualizations and statistical hypothesis testing.
 
